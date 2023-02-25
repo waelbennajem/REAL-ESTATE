@@ -73,7 +73,7 @@ header a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(image/frame.jpg) center center/cover;
+    background: url(../image/frame.jpg) center center/cover;
 }
 .vp-inside {
     max-width: 600px;
@@ -118,7 +118,7 @@ header a{
 }
 .aboutus-content-img {
     flex: 1;
-    background: url(image/team.jpg) center center/cover;
+    background: url(../image/team.jpg) center center/cover;
 }
 .aboutus-content-text {
     flex: 1;
