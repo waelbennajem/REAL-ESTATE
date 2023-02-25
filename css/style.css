@@ -73,7 +73,7 @@ header a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(../image/frame.jpg) center center/cover;
+    background: url(image/frame.jpg) center center/cover;
 }
 .vp-inside {
     max-width: 600px;
