@@ -118,7 +118,7 @@ header a{
 }
 .aboutus-content-img {
     flex: 1;
-    background: url(/image/team.jpg) center center/cover;
+    background: url(image/team.jpg) center center/cover;
 }
 .aboutus-content-text {
     flex: 1;
